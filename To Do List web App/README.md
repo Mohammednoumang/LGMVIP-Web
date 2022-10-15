@@ -12,7 +12,7 @@ JAVA SCRIPT
 
   SNAPSHOTS : 
 
-![image](/Home.png)
+![image](/home.png)
 ![image](/add.png)
 
 
