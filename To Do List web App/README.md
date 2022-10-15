@@ -10,10 +10,5 @@ HTML
 CSS
 JAVA SCRIPT
 
-  SNAPSHOTS : 
-
-![image](/home.png)
-![image](/add.png)
-
 
 
